@@ -1,6 +1,6 @@
 Here's a sample `README.md` file for your AI-powered resume screening app with UI:
 
-```markdown
+```
 AI-Powered Resume Screening App
 
 This project is an AI-powered resume screening application that provides a user-friendly interface (UI) for screening resumes using an AI model. The app is split into two main components:
