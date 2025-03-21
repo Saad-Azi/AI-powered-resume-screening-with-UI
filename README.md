@@ -79,9 +79,4 @@ Prerequisites
 - The backend is developed via FastAPI and will be accessible at `http://localhost:800/docs`.
 - The frontend communicates with the backend at `http://localhost:5173`, so ensure the backend is running before interacting with the UI.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
 This `README.md` file includes instructions on how to set up both the frontend and backend components, as well as details on how the project is structured. Let me know if you'd like any adjustments!
