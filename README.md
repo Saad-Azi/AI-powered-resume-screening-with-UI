@@ -5,15 +5,15 @@ Here's a sample `README.md` file for your AI-powered resume screening app with U
 
 This project is an AI-powered resume screening application that provides a user-friendly interface (UI) for screening resumes using an AI model. The app is split into two main components:
 
-1. **UI (Frontend)**: Provides a user interface for interacting with the resume screening tool.
-2. **Backend**: Contains the AI-powered resume screening logic, wrapped in a Docker container.
+1. UI (Frontend): Provides a user interface for interacting with the resume screening tool.
+2. Backend: Contains the AI-powered resume screening logic, wrapped in a Docker container.
 
 ## Project Structure
 
 The project is divided into two main folders:
 
-- `resume-screening-ui`: Contains the frontend/UI of the application.
-- `resume-screening`: Contains the backend logic and a Dockerfile to build the application backend.
+- resume-screening-ui: Contains the frontend/UI of the application.
+- resume-screening: Contains the backend logic and a Dockerfile to build the application backend.
 
 ## Getting Started
 
