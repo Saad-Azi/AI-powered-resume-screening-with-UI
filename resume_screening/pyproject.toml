@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "resume-screening"
+version = "0.1.0"
+description = ""
+authors = ["hammad <hamadahamd7765@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+crewai = "^0.108.0"
+langchain-openai = "^0.3.9"
+pypdf2 = "^3.0.1"
+fastapi = "^0.115.11"
+uvicorn = "^0.34.0"
+python-multipart = "^0.0.20"
+setuptools = "^77.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
