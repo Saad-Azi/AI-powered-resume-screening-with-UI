@@ -1,6 +1,6 @@
 Here's a sample `README.md` file for your AI-powered resume screening app with UI:
 
-AI-Powered Resume Screening App
+# AI-Powered Resume Screening App
 
 This project is an AI-powered resume screening application that provides a user-friendly interface (UI) for screening resumes using an AI model. The app is split into two main components:
 
@@ -22,7 +22,7 @@ Prerequisites
 - Docker (for backend)
 - OpenAI API key (for backend integration)
 
-Step 1: Set Up the Frontend (UI)
+## Step 1: Set Up the Frontend (UI)
 
 1. Navigate to the `resume-screening-ui` folder:
    ```bash
