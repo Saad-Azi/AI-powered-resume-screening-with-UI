@@ -1,4 +1,4 @@
-# Use Python 3.9 slim image
+# Use Python 3.12 slim image
 FROM python:3.12-slim
 
 # Set working directory
@@ -14,7 +14,6 @@ RUN apt-get update \
         build-essential \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy requirements first to leverage Docker cache
 # Copy project files
 COPY . .
 
