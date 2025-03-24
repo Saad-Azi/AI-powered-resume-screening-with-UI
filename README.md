@@ -1,5 +1,3 @@
-Here's a sample `README.md` file for your AI-powered resume screening app with UI:
-
 # AI-Powered Resume Screening App
 
 This project is an AI-powered resume screening application that provides a user-friendly interface (UI) for screening resumes using an AI model. The app is split into two main components:
@@ -78,5 +76,3 @@ Prerequisites
 - If you face issues with Docker or have any other problems, make sure Docker is installed and running on your machine.
 - The backend is developed via FastAPI and will be accessible at `http://localhost:800/docs`.
 - The frontend communicates with the backend at `http://localhost:5173`, so ensure the backend is running before interacting with the UI.
-
-This `README.md` file includes instructions on how to set up both the frontend and backend components, as well as details on how the project is structured. Let me know if you'd like any adjustments!
